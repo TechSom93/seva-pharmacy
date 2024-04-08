@@ -192,7 +192,8 @@
         });
 
         $(".banner-slider").owlCarousel({
-            items: 1
+            items: 1,
+            autoplay: true,
         });
 		
 	/*
